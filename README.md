@@ -13,8 +13,8 @@ To address these limitations, recent research has explored the use of WiFi anten
 Clone this repository:
 
 ```
-git clone https://github.com/paulst1225/Virtual-Try-On.git
-cd ./VITON-HD/
+git clone https://github.com/paulst1225/DensePose_from_WiFi.git
+cd ./DensePose_from_WiFi/
 ```
 
 Install PyTorch and other dependencies:
@@ -23,5 +23,4 @@ Install PyTorch and other dependencies:
 conda create -y -n [ENV] python=3.8
 conda activate [ENV]
 conda install -y pytorch=[>=1.6.0] torchvision cudatoolkit=[>=9.2] -c pytorch
-pip install opencv-python torchgeometry
 ```
