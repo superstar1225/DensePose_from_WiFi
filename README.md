@@ -13,7 +13,7 @@ To address these limitations, recent research has explored the use of WiFi anten
 Clone this repository:
 
 ```
-git clone https://github.com/paulst1225/DensePose_from_WiFi.git
+git clone https://github.com/superstar1225/DensePose_from_WiFi.git
 cd ./DensePose_from_WiFi/
 ```
 
